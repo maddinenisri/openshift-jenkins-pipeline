@@ -5,7 +5,7 @@ durable-task
 rebuild
 #configuration-as-code-support
 #configuration-as-code
-
+atlassian-bitbucket-server-integration
 
 # newest versions of openshift plugins
 openshift-client
